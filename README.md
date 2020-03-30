@@ -1,3 +1,3 @@
 # Magic-Notes
-Notes Creatingng App |
+Notes Creating App |
 Language: JavaScript
